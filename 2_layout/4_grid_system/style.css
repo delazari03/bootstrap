@@ -2,9 +2,11 @@ body {
     background-color: #f36520;
 }
 
-header, nav,main {
+header, nav,main, .row div  {
     background-color: #fff;
     min-height: 10vh;
+    margin:2vh;
+ 
 }
 header{
     margin: 2vh auto;
