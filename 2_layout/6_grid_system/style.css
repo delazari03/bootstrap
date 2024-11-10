@@ -1,0 +1,17 @@
+body {
+    background-color: #f36520;
+}
+
+header, nav,main, .row div {
+    background-color: #fff;
+    min-height: 10vh;
+    padding: 5px;
+    border: 3px solid #f36520;
+    border-radius: 5px;
+}
+header{
+    margin: 2vh auto;
+}
+nav, main{
+    min-height: 82vh;
+}

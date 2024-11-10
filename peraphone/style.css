@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 208, 235);
+}
+
+.navbar-brand{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.navbar-brand img{
+    width: 150px;
+}
